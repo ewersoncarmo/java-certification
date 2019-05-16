@@ -1,1 +1,1 @@
-# certificacao-java
+# java-certification
