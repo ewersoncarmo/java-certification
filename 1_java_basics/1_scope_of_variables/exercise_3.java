@@ -7,4 +7,5 @@ class Test {
         int i = 15;
         System.out.println(i);
     }
+    // Compile and run, printing from 0 until 19 and then 15.
  }
